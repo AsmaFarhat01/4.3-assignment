@@ -1,0 +1,37 @@
+[
+    {
+        "movietitle": "RRR",
+        "director": "rajamouli",
+        "year": "2022",
+        "genre": "action",
+        "movielengthinminutes": 180
+    },
+    {
+        "movietitle": "jathiratnalu",
+        "director": "suresh",
+        "year": "2022",
+        "genre": "comedy",
+        "movielengthinminutes": 170
+    },
+    {
+        "movietitle": "lovestory",
+        "director": "shekhar",
+        "year": "2021",
+        "genre": "romantic",
+        "movielengthinminutes": 160
+    },
+    {
+        "movietitle": "Rangasthalam",
+        "director": "sukumar",
+        "year": "2019",
+        "genre": "action",
+        "movielengthinminutes": 180
+    },
+    {
+        "movietitle": "vikram",
+        "director": "loki",
+        "year": "2021",
+        "genre": "action",
+        "movielengthinminutes": 150
+    }
+]
